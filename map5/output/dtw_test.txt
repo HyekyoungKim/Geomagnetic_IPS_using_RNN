@@ -1,0 +1,4 @@
+Mean error: 5.970682673038881 m
+The time needed to predict a trace: 61.21036243438721
+==================================
+[4;33mReloaded modules[24m: randomwalk[0m

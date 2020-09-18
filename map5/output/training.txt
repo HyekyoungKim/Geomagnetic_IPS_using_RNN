@@ -1,0 +1,697 @@
+==========================
+The number of hidden nodes: 200
+The number of hidden layers: 3
+The size of minibatches: 20
+Learning rate: 0.001
+The number of training epochs: 400
+The number of steps per trace: 20
+The number of traces: 50000
+Portion used to training: 0.6
+==========================
+The number of hidden nodes: 200
+The number of hidden layers: 3
+The size of minibatches: 20
+Learning rate: 0.001
+The number of training epochs: 400
+The number of steps per trace: 20
+The number of traces: 50000
+Portion used to training: 0.6
+The time needed to train RNN (10 epochs): 810.2970685958862
+==========================
+The number of hidden nodes: 200
+The number of hidden layers: 3
+The size of minibatches: 20
+Learning rate: 0.001
+The number of training epochs: 400
+The number of steps per trace: 20
+The number of traces: 10000
+Portion used to training: 0.6
+The time needed to train RNN (10 epochs): 164.2489447593689
+The time needed to train RNN (20 epochs): 327.5204062461853
+The time needed to train RNN (30 epochs): 490.4337179660797
+The time needed to train RNN (40 epochs): 653.2899634838104
+The time needed to train RNN (50 epochs): 816.0253145694733
+The time needed to train RNN (60 epochs): 978.5538792610168
+The time needed to train RNN (70 epochs): 1141.0188121795654
+==========================
+The number of hidden nodes: 200
+The number of hidden layers: 3
+The size of minibatches: 20
+Learning rate: 0.001
+The number of training epochs: 400
+The number of steps per trace: 20
+The number of traces: 10000
+Portion used to training: 0.6
+The time needed to train RNN (10 epochs): 169.6571762561798
+The time needed to train RNN (20 epochs): 337.2683045864105
+The time needed to train RNN (30 epochs): 504.92912697792053
+The time needed to train RNN (40 epochs): 672.0957832336426
+The time needed to train RNN (50 epochs): 839.4426827430725
+The time needed to train RNN (60 epochs): 1006.3639435768127
+The time needed to train RNN (70 epochs): 1172.882416009903
+The time needed to train RNN (80 epochs): 1339.7823331356049
+The time needed to train RNN (90 epochs): 1507.0429706573486
+The time needed to train RNN (100 epochs): 1673.630452156067
+The time needed to train RNN (110 epochs): 1840.62766456604
+The time needed to train RNN (120 epochs): 2007.7713901996613
+The time needed to train RNN (130 epochs): 2175.0863556861877
+The time needed to train RNN (140 epochs): 2341.5691645145416
+The time needed to train RNN (150 epochs): 2508.4824619293213
+The time needed to train RNN (160 epochs): 2675.509516954422
+The time needed to train RNN (170 epochs): 2842.323877811432
+The time needed to train RNN (180 epochs): 3009.011558532715
+The time needed to train RNN (190 epochs): 3175.699902534485
+The time needed to train RNN (200 epochs): 3342.4544639587402
+The time needed to train RNN (210 epochs): 3509.095768213272
+The time needed to train RNN (220 epochs): 3675.747492313385
+The time needed to train RNN (230 epochs): 3843.018452167511
+The time needed to train RNN (240 epochs): 4009.7556099891663
+The time needed to train RNN (250 epochs): 4176.914593458176
+The time needed to train RNN (260 epochs): 4343.652307510376
+The time needed to train RNN (270 epochs): 4510.8090715408325
+The time needed to train RNN (280 epochs): 4677.488559484482
+The time needed to train RNN (290 epochs): 4844.333434104919
+The time needed to train RNN (300 epochs): 5010.9197018146515
+The time needed to train RNN (310 epochs): 5177.952117443085
+The time needed to train RNN (320 epochs): 5344.795853614807
+The time needed to train RNN (330 epochs): 5512.079422950745
+The time needed to train RNN (340 epochs): 5678.878155708313
+The time needed to train RNN (350 epochs): 5846.753130674362
+The time needed to train RNN (360 epochs): 6014.43855714798
+The time needed to train RNN (370 epochs): 6181.448050260544
+The time needed to train RNN (380 epochs): 6348.702689409256
+The time needed to train RNN (390 epochs): 6515.5250034332275
+The time needed to train RNN (400 epochs): 6682.085591316223
+The time needed to train RNN: 6682.085603237152
+==========================
+The number of hidden nodes: 100
+The number of hidden layers: 3
+The size of minibatches: 20
+Learning rate: 0.001
+The number of training epochs: 400
+The number of steps per trace: 20
+The number of traces: 10000
+Portion used to training: 0.6
+The time needed to train RNN (10 epochs): 112.79517388343811
+The time needed to train RNN (20 epochs): 224.79897260665894
+The time needed to train RNN (30 epochs): 336.4102358818054
+The time needed to train RNN (40 epochs): 448.1008315086365
+The time needed to train RNN (50 epochs): 559.6757018566132
+The time needed to train RNN (60 epochs): 670.9550395011902
+The time needed to train RNN (70 epochs): 781.8600950241089
+The time needed to train RNN (80 epochs): 892.7536964416504
+The time needed to train RNN (90 epochs): 1003.6888399124146
+The time needed to train RNN (100 epochs): 1114.840252161026
+The time needed to train RNN (110 epochs): 1225.7461767196655
+The time needed to train RNN (120 epochs): 1336.6342461109161
+The time needed to train RNN (130 epochs): 1447.76708984375
+The time needed to train RNN (140 epochs): 1559.0021486282349
+The time needed to train RNN (150 epochs): 1670.0363428592682
+The time needed to train RNN (160 epochs): 1781.0078177452087
+The time needed to train RNN (170 epochs): 1892.0350210666656
+The time needed to train RNN (180 epochs): 2002.9687008857727
+The time needed to train RNN (190 epochs): 2113.8816554546356
+The time needed to train RNN (200 epochs): 2224.9639036655426
+The time needed to train RNN (210 epochs): 2336.077606678009
+The time needed to train RNN (220 epochs): 2446.9628670215607
+The time needed to train RNN (230 epochs): 2557.9616887569427
+The time needed to train RNN (240 epochs): 2668.9132940769196
+The time needed to train RNN (250 epochs): 2780.3247752189636
+The time needed to train RNN (260 epochs): 2891.405215024948
+The time needed to train RNN (270 epochs): 3002.3541293144226
+The time needed to train RNN (280 epochs): 3113.4007143974304
+The time needed to train RNN (290 epochs): 3224.5866198539734
+The time needed to train RNN (300 epochs): 3335.470083475113
+The time needed to train RNN (310 epochs): 3446.4792478084564
+The time needed to train RNN (320 epochs): 3557.4072709083557
+The time needed to train RNN (330 epochs): 3668.3206396102905
+The time needed to train RNN (340 epochs): 3779.2521982192993
+The time needed to train RNN (350 epochs): 3890.476584672928
+The time needed to train RNN (360 epochs): 4001.433586835861
+The time needed to train RNN (370 epochs): 4112.509085655212
+The time needed to train RNN (380 epochs): 4223.47921538353
+The time needed to train RNN (390 epochs): 4334.449513196945
+The time needed to train RNN (400 epochs): 4445.645750999451
+The time needed to train RNN: 4445.645763635635
+==========================
+The number of hidden nodes: 200
+The number of hidden layers: 3
+The size of minibatches: 20
+Learning rate: 0.001
+The number of training epochs: 400
+The number of steps per trace: 20
+The number of traces: 10000
+Portion used to training: 0.6
+The time needed to train RNN (10 epochs): 168.29710841178894
+The time needed to train RNN (20 epochs): 335.94515323638916
+The time needed to train RNN (30 epochs): 503.561372756958
+==========================
+The number of hidden nodes: 50
+The number of hidden layers: 3
+The size of minibatches: 20
+Learning rate: 0.001
+The number of training epochs: 400
+The number of steps per trace: 20
+The number of traces: 10000
+Portion used to training: 0.6
+The time needed to train RNN (10 epochs): 107.98351311683655
+The time needed to train RNN (20 epochs): 214.33718156814575
+The time needed to train RNN (30 epochs): 319.10059547424316
+The time needed to train RNN (40 epochs): 423.3473355770111
+The time needed to train RNN (50 epochs): 527.6550920009613
+The time needed to train RNN (60 epochs): 632.8582985401154
+The time needed to train RNN (70 epochs): 736.2783677577972
+The time needed to train RNN (80 epochs): 839.9753935337067
+The time needed to train RNN (90 epochs): 943.4070773124695
+The time needed to train RNN (100 epochs): 1046.9883980751038
+The time needed to train RNN (110 epochs): 1150.1053984165192
+The time needed to train RNN (120 epochs): 1254.1809904575348
+The time needed to train RNN (130 epochs): 1357.9900116920471
+The time needed to train RNN (140 epochs): 1461.1332626342773
+The time needed to train RNN (150 epochs): 1564.5884959697723
+The time needed to train RNN (160 epochs): 1668.0481972694397
+The time needed to train RNN (170 epochs): 1771.6055035591125
+The time needed to train RNN (180 epochs): 1874.8988463878632
+The time needed to train RNN (190 epochs): 1977.8583753108978
+The time needed to train RNN (200 epochs): 2081.095493078232
+The time needed to train RNN (210 epochs): 2184.687572479248
+The time needed to train RNN (220 epochs): 2288.8413112163544
+The time needed to train RNN (230 epochs): 2392.014256954193
+The time needed to train RNN (240 epochs): 2495.484438896179
+The time needed to train RNN (250 epochs): 2598.394985437393
+The time needed to train RNN (260 epochs): 2701.325595855713
+The time needed to train RNN (270 epochs): 2804.793801546097
+The time needed to train RNN (280 epochs): 2908.300832271576
+The time needed to train RNN (290 epochs): 3012.3369133472443
+The time needed to train RNN (300 epochs): 3115.792134284973
+The time needed to train RNN (310 epochs): 3219.096451997757
+The time needed to train RNN (320 epochs): 3322.2753942012787
+The time needed to train RNN (330 epochs): 3425.942994117737
+The time needed to train RNN (340 epochs): 3529.3600437641144
+The time needed to train RNN (350 epochs): 3632.893673181534
+The time needed to train RNN (360 epochs): 3736.605924844742
+The time needed to train RNN (370 epochs): 3839.3483057022095
+The time needed to train RNN (380 epochs): 3942.217359304428
+The time needed to train RNN (390 epochs): 4045.438464164734
+The time needed to train RNN (400 epochs): 4148.943539142609
+The time needed to train RNN: 4148.9435522556305
+==========================
+The number of hidden nodes: 10
+The number of hidden layers: 3
+The size of minibatches: 20
+Learning rate: 0.001
+The number of training epochs: 400
+The number of steps per trace: 20
+The number of traces: 10000
+Portion used to training: 0.6
+The time needed to train RNN (10 epochs): 105.57899761199951
+The time needed to train RNN (20 epochs): 209.67460918426514
+The time needed to train RNN (30 epochs): 313.6320900917053
+The time needed to train RNN (40 epochs): 417.8382546901703
+The time needed to train RNN (50 epochs): 521.8367018699646
+The time needed to train RNN (60 epochs): 625.7442028522491
+The time needed to train RNN (70 epochs): 729.2987987995148
+The time needed to train RNN (80 epochs): 832.8714792728424
+The time needed to train RNN (90 epochs): 936.5430796146393
+The time needed to train RNN (100 epochs): 1040.0208983421326
+The time needed to train RNN (110 epochs): 1143.6589589118958
+The time needed to train RNN (120 epochs): 1247.1573724746704
+The time needed to train RNN (130 epochs): 1350.644030570984
+The time needed to train RNN (140 epochs): 1454.2950420379639
+The time needed to train RNN (150 epochs): 1557.7877945899963
+The time needed to train RNN (160 epochs): 1661.1077945232391
+The time needed to train RNN (170 epochs): 1764.5856733322144
+The time needed to train RNN (180 epochs): 1867.9373984336853
+The time needed to train RNN (190 epochs): 1971.2337219715118
+The time needed to train RNN (200 epochs): 2074.60187625885
+The time needed to train RNN (210 epochs): 2177.9662969112396
+The time needed to train RNN (220 epochs): 2281.1758341789246
+The time needed to train RNN (230 epochs): 2384.752409696579
+The time needed to train RNN (240 epochs): 2488.378390312195
+The time needed to train RNN (250 epochs): 2591.694533586502
+The time needed to train RNN (260 epochs): 2695.0990777015686
+The time needed to train RNN (270 epochs): 2798.688643693924
+The time needed to train RNN (280 epochs): 2901.9461755752563
+The time needed to train RNN (290 epochs): 3005.3830840587616
+The time needed to train RNN (300 epochs): 3108.8007867336273
+The time needed to train RNN (310 epochs): 3212.144455432892
+The time needed to train RNN (320 epochs): 3315.742192029953
+The time needed to train RNN (330 epochs): 3419.213381052017
+The time needed to train RNN (340 epochs): 3522.584199666977
+The time needed to train RNN (350 epochs): 3625.771624803543
+The time needed to train RNN (360 epochs): 3729.104240655899
+The time needed to train RNN (370 epochs): 3832.5195486545563
+The time needed to train RNN (380 epochs): 3935.838567018509
+The time needed to train RNN (390 epochs): 4039.1856241226196
+The time needed to train RNN (400 epochs): 4142.894770622253
+The time needed to train RNN: 4142.894782304764
+==========================
+The number of hidden nodes: 200
+The number of hidden layers: 2
+The size of minibatches: 20
+Learning rate: 0.001
+The number of training epochs: 400
+The number of steps per trace: 20
+The number of traces: 10000
+Portion used to training: 0.6
+The time needed to train RNN (10 epochs): 118.85218930244446
+The time needed to train RNN (20 epochs): 236.10690355300903
+The time needed to train RNN (30 epochs): 352.77426528930664
+The time needed to train RNN (40 epochs): 469.8076026439667
+The time needed to train RNN (50 epochs): 587.3890779018402
+The time needed to train RNN (60 epochs): 704.1208176612854
+The time needed to train RNN (70 epochs): 821.1493759155273
+The time needed to train RNN (80 epochs): 937.8291597366333
+The time needed to train RNN (90 epochs): 1053.9317274093628
+The time needed to train RNN (100 epochs): 1170.4470727443695
+The time needed to train RNN (110 epochs): 1286.874745607376
+The time needed to train RNN (120 epochs): 1403.4086039066315
+The time needed to train RNN (130 epochs): 1519.8952541351318
+The time needed to train RNN (140 epochs): 1636.6871728897095
+The time needed to train RNN (150 epochs): 1753.1480021476746
+The time needed to train RNN (160 epochs): 1869.615714788437
+The time needed to train RNN (170 epochs): 1985.7238955497742
+The time needed to train RNN (180 epochs): 2102.050641775131
+The time needed to train RNN (190 epochs): 2219.1804237365723
+The time needed to train RNN (200 epochs): 2335.402717113495
+The time needed to train RNN (210 epochs): 2453.034963130951
+The time needed to train RNN (220 epochs): 2569.530529975891
+The time needed to train RNN (230 epochs): 2686.1117403507233
+The time needed to train RNN (240 epochs): 2802.538492202759
+The time needed to train RNN (250 epochs): 2918.8188951015472
+The time needed to train RNN (260 epochs): 3035.9570276737213
+The time needed to train RNN (270 epochs): 3152.6311526298523
+The time needed to train RNN (280 epochs): 3269.1420147418976
+The time needed to train RNN (290 epochs): 3386.115460395813
+The time needed to train RNN (300 epochs): 3503.329909801483
+The time needed to train RNN (310 epochs): 3620.5701389312744
+The time needed to train RNN (320 epochs): 3737.704879760742
+The time needed to train RNN (330 epochs): 3854.201635360718
+The time needed to train RNN (340 epochs): 3970.7448184490204
+The time needed to train RNN (350 epochs): 4087.127460002899
+The time needed to train RNN (360 epochs): 4204.07874584198
+The time needed to train RNN (370 epochs): 4320.87446475029
+The time needed to train RNN (380 epochs): 4436.874131679535
+The time needed to train RNN (390 epochs): 4553.382358312607
+The time needed to train RNN (400 epochs): 4669.877928733826
+The time needed to train RNN: 4669.877941608429
+==========================
+The number of hidden nodes: 100
+The number of hidden layers: 2
+The size of minibatches: 20
+Learning rate: 0.001
+The number of training epochs: 400
+The number of steps per trace: 20
+The number of traces: 10000
+Portion used to training: 0.6
+The time needed to train RNN (10 epochs): 83.33100056648254
+The time needed to train RNN (20 epochs): 165.14779829978943
+The time needed to train RNN (30 epochs): 247.18295788764954
+The time needed to train RNN (40 epochs): 328.9313485622406
+The time needed to train RNN (50 epochs): 410.40877079963684
+The time needed to train RNN (60 epochs): 491.6105942726135
+The time needed to train RNN (70 epochs): 572.8859086036682
+The time needed to train RNN (80 epochs): 654.3154990673065
+The time needed to train RNN (90 epochs): 735.476003408432
+The time needed to train RNN (100 epochs): 816.1198310852051
+The time needed to train RNN (110 epochs): 896.9107818603516
+The time needed to train RNN (120 epochs): 977.5480720996857
+The time needed to train RNN (130 epochs): 1058.4563436508179
+The time needed to train RNN (140 epochs): 1139.3777287006378
+The time needed to train RNN (150 epochs): 1220.3599708080292
+The time needed to train RNN (160 epochs): 1301.412849187851
+The time needed to train RNN (170 epochs): 1382.356406211853
+The time needed to train RNN (180 epochs): 1463.2906737327576
+The time needed to train RNN (190 epochs): 1544.0480070114136
+The time needed to train RNN (200 epochs): 1624.7784600257874
+The time needed to train RNN (210 epochs): 1705.693708896637
+The time needed to train RNN (220 epochs): 1786.5554730892181
+The time needed to train RNN (230 epochs): 1867.7202293872833
+The time needed to train RNN (240 epochs): 1948.8344688415527
+The time needed to train RNN (250 epochs): 2029.58828997612
+The time needed to train RNN (260 epochs): 2110.544760942459
+The time needed to train RNN (270 epochs): 2191.4981002807617
+The time needed to train RNN (280 epochs): 2272.3252630233765
+The time needed to train RNN (290 epochs): 2353.5785143375397
+The time needed to train RNN (300 epochs): 2434.5187776088715
+The time needed to train RNN (310 epochs): 2515.1885776519775
+The time needed to train RNN (320 epochs): 2595.9727911949158
+The time needed to train RNN (330 epochs): 2676.801615715027
+The time needed to train RNN (340 epochs): 2757.902888774872
+The time needed to train RNN (350 epochs): 2838.886376142502
+The time needed to train RNN (360 epochs): 2919.7965400218964
+The time needed to train RNN (370 epochs): 3000.5619356632233
+The time needed to train RNN (380 epochs): 3081.633025407791
+The time needed to train RNN (390 epochs): 3162.7409660816193
+The time needed to train RNN (400 epochs): 3243.6174380779266
+The time needed to train RNN: 3243.6174499988556
+==========================
+The number of hidden nodes: 50
+The number of hidden layers: 2
+The size of minibatches: 20
+Learning rate: 0.001
+The number of training epochs: 400
+The number of steps per trace: 20
+The number of traces: 10000
+Portion used to training: 0.6
+The time needed to train RNN (10 epochs): 82.72020745277405
+The time needed to train RNN (20 epochs): 163.9335377216339
+The time needed to train RNN (30 epochs): 244.64827179908752
+The time needed to train RNN (40 epochs): 324.6237778663635
+The time needed to train RNN (50 epochs): 404.3891770839691
+The time needed to train RNN (60 epochs): 484.3504989147186
+The time needed to train RNN (70 epochs): 564.2919728755951
+The time needed to train RNN (80 epochs): 644.1596310138702
+The time needed to train RNN (90 epochs): 723.4238982200623
+The time needed to train RNN (100 epochs): 802.5407385826111
+The time needed to train RNN (110 epochs): 881.2388803958893
+The time needed to train RNN (120 epochs): 960.4288241863251
+The time needed to train RNN (130 epochs): 1039.4911317825317
+The time needed to train RNN (140 epochs): 1119.3182127475739
+The time needed to train RNN (150 epochs): 1198.7768313884735
+The time needed to train RNN (160 epochs): 1278.0343685150146
+The time needed to train RNN (170 epochs): 1357.667008638382
+The time needed to train RNN (180 epochs): 1437.0509955883026
+The time needed to train RNN (190 epochs): 1516.6570632457733
+The time needed to train RNN (200 epochs): 1596.333387851715
+The time needed to train RNN (210 epochs): 1675.8849518299103
+The time needed to train RNN (220 epochs): 1754.8183505535126
+The time needed to train RNN (230 epochs): 1833.6895067691803
+The time needed to train RNN (240 epochs): 1912.6613879203796
+The time needed to train RNN (250 epochs): 1992.1974546909332
+The time needed to train RNN (260 epochs): 2071.429173707962
+The time needed to train RNN (270 epochs): 2150.9985070228577
+The time needed to train RNN (280 epochs): 2230.630562067032
+The time needed to train RNN (290 epochs): 2309.53608417511
+The time needed to train RNN (300 epochs): 2388.9076714515686
+The time needed to train RNN (310 epochs): 2467.816212415695
+The time needed to train RNN (320 epochs): 2547.045807361603
+The time needed to train RNN (330 epochs): 2626.987118244171
+The time needed to train RNN (340 epochs): 2706.8353974819183
+The time needed to train RNN (350 epochs): 2785.889144182205
+The time needed to train RNN (360 epochs): 2864.502379655838
+The time needed to train RNN (370 epochs): 2943.6146354675293
+The time needed to train RNN (380 epochs): 3022.696512699127
+The time needed to train RNN (390 epochs): 3101.6002900600433
+The time needed to train RNN (400 epochs): 3180.491279602051
+The time needed to train RNN: 3180.491291999817
+==========================
+The number of hidden nodes: 10
+The number of hidden layers: 2
+The size of minibatches: 20
+Learning rate: 0.001
+The number of training epochs: 400
+The number of steps per trace: 20
+The number of traces: 10000
+Portion used to training: 0.6
+The time needed to train RNN (10 epochs): 76.08373999595642
+The time needed to train RNN (20 epochs): 151.60226702690125
+The time needed to train RNN (30 epochs): 227.13184881210327
+The time needed to train RNN (40 epochs): 302.2749717235565
+The time needed to train RNN (50 epochs): 377.1636040210724
+The time needed to train RNN (60 epochs): 452.33827447891235
+The time needed to train RNN (70 epochs): 527.2430522441864
+The time needed to train RNN (80 epochs): 602.0809745788574
+The time needed to train RNN (90 epochs): 676.9391376972198
+The time needed to train RNN (100 epochs): 751.9027647972107
+The time needed to train RNN (110 epochs): 826.3814516067505
+The time needed to train RNN (120 epochs): 900.8581159114838
+The time needed to train RNN (130 epochs): 975.6091179847717
+The time needed to train RNN (140 epochs): 1050.2560849189758
+The time needed to train RNN (150 epochs): 1124.7849769592285
+The time needed to train RNN (160 epochs): 1199.3554379940033
+The time needed to train RNN (170 epochs): 1273.822191476822
+The time needed to train RNN (180 epochs): 1348.2458748817444
+The time needed to train RNN (190 epochs): 1422.705427646637
+The time needed to train RNN (200 epochs): 1497.115395307541
+The time needed to train RNN (210 epochs): 1571.5836431980133
+The time needed to train RNN (220 epochs): 1646.0501959323883
+The time needed to train RNN (230 epochs): 1720.509755373001
+The time needed to train RNN (240 epochs): 1794.981695652008
+The time needed to train RNN (250 epochs): 1869.455632686615
+The time needed to train RNN (260 epochs): 1943.9211661815643
+The time needed to train RNN (270 epochs): 2018.3119807243347
+The time needed to train RNN (280 epochs): 2092.6785049438477
+The time needed to train RNN (290 epochs): 2167.207234144211
+The time needed to train RNN (300 epochs): 2241.873078584671
+The time needed to train RNN (310 epochs): 2316.572888612747
+The time needed to train RNN (320 epochs): 2391.1085398197174
+The time needed to train RNN (330 epochs): 2465.6237626075745
+The time needed to train RNN (340 epochs): 2540.540609359741
+The time needed to train RNN (350 epochs): 2615.1761293411255
+The time needed to train RNN (360 epochs): 2689.75528717041
+The time needed to train RNN (370 epochs): 2764.303456544876
+The time needed to train RNN (380 epochs): 2839.0652315616608
+The time needed to train RNN (390 epochs): 2913.691037416458
+The time needed to train RNN (400 epochs): 2988.2821600437164
+The time needed to train RNN: 2988.282175540924
+==========================
+The number of hidden nodes: 200
+The number of hidden layers: 1
+The size of minibatches: 20
+Learning rate: 0.001
+The number of training epochs: 400
+The number of steps per trace: 20
+The number of traces: 10000
+Portion used to training: 0.6
+The time needed to train RNN (10 epochs): 61.874817848205566
+The time needed to train RNN (20 epochs): 121.45178890228271
+The time needed to train RNN (30 epochs): 180.8948357105255
+The time needed to train RNN (40 epochs): 240.5829393863678
+The time needed to train RNN (50 epochs): 299.92178678512573
+The time needed to train RNN (60 epochs): 359.3963668346405
+The time needed to train RNN (70 epochs): 418.9707841873169
+The time needed to train RNN (80 epochs): 478.491717338562
+The time needed to train RNN (90 epochs): 537.7696826457977
+The time needed to train RNN (100 epochs): 596.8184597492218
+The time needed to train RNN (110 epochs): 656.1815052032471
+The time needed to train RNN (120 epochs): 715.3219900131226
+The time needed to train RNN (130 epochs): 774.492614030838
+The time needed to train RNN (140 epochs): 833.5651423931122
+The time needed to train RNN (150 epochs): 892.8389344215393
+The time needed to train RNN (160 epochs): 951.9655911922455
+The time needed to train RNN (170 epochs): 1011.0784606933594
+The time needed to train RNN (180 epochs): 1070.2584314346313
+The time needed to train RNN (190 epochs): 1129.52054977417
+The time needed to train RNN (200 epochs): 1188.616648197174
+The time needed to train RNN (210 epochs): 1247.7172348499298
+The time needed to train RNN (220 epochs): 1306.8404567241669
+The time needed to train RNN (230 epochs): 1366.1084623336792
+The time needed to train RNN (240 epochs): 1425.275473356247
+The time needed to train RNN (250 epochs): 1484.3718721866608
+The time needed to train RNN (260 epochs): 1543.4440178871155
+The time needed to train RNN (270 epochs): 1602.7406482696533
+The time needed to train RNN (280 epochs): 1661.7730553150177
+The time needed to train RNN (290 epochs): 1720.928632259369
+The time needed to train RNN (300 epochs): 1780.0439944267273
+The time needed to train RNN (310 epochs): 1839.2682282924652
+The time needed to train RNN (320 epochs): 1898.4206867218018
+The time needed to train RNN (330 epochs): 1957.4335474967957
+The time needed to train RNN (340 epochs): 2016.4852256774902
+The time needed to train RNN (350 epochs): 2075.5071489810944
+The time needed to train RNN (360 epochs): 2134.6872844696045
+The time needed to train RNN (370 epochs): 2193.8799929618835
+The time needed to train RNN (380 epochs): 2253.102110862732
+The time needed to train RNN (390 epochs): 2312.12246799469
+The time needed to train RNN (400 epochs): 2371.107404947281
+The time needed to train RNN: 2371.1074175834656
+==========================
+The number of hidden nodes: 100
+The number of hidden layers: 1
+The size of minibatches: 20
+Learning rate: 0.001
+The number of training epochs: 400
+The number of steps per trace: 20
+The number of traces: 10000
+Portion used to training: 0.6
+The time needed to train RNN (10 epochs): 55.2168824672699
+The time needed to train RNN (20 epochs): 109.88485503196716
+The time needed to train RNN (30 epochs): 164.68274354934692
+The time needed to train RNN (40 epochs): 220.94858121871948
+The time needed to train RNN (50 epochs): 276.5516803264618
+The time needed to train RNN (60 epochs): 331.8544580936432
+The time needed to train RNN (70 epochs): 387.0533287525177
+The time needed to train RNN (80 epochs): 441.9673025608063
+The time needed to train RNN (90 epochs): 498.1019766330719
+The time needed to train RNN (100 epochs): 553.0006568431854
+The time needed to train RNN (110 epochs): 607.4822261333466
+The time needed to train RNN (120 epochs): 661.4976575374603
+The time needed to train RNN (130 epochs): 715.9986364841461
+The time needed to train RNN (140 epochs): 770.4325592517853
+The time needed to train RNN (150 epochs): 825.0352306365967
+The time needed to train RNN (160 epochs): 879.6591663360596
+The time needed to train RNN (170 epochs): 934.0259492397308
+The time needed to train RNN (180 epochs): 988.4488289356232
+The time needed to train RNN (190 epochs): 1043.483695268631
+The time needed to train RNN (200 epochs): 1098.8197894096375
+The time needed to train RNN (210 epochs): 1153.5730953216553
+The time needed to train RNN (220 epochs): 1208.4529309272766
+The time needed to train RNN (230 epochs): 1262.9548661708832
+The time needed to train RNN (240 epochs): 1317.9645133018494
+The time needed to train RNN (250 epochs): 1372.8924567699432
+The time needed to train RNN (260 epochs): 1427.3800120353699
+The time needed to train RNN (270 epochs): 1482.044231891632
+The time needed to train RNN (280 epochs): 1536.4027252197266
+The time needed to train RNN (290 epochs): 1591.3764808177948
+The time needed to train RNN (300 epochs): 1646.3378019332886
+The time needed to train RNN (310 epochs): 1701.427725315094
+The time needed to train RNN (320 epochs): 1756.2086260318756
+The time needed to train RNN (330 epochs): 1810.5913224220276
+The time needed to train RNN (340 epochs): 1864.9394464492798
+The time needed to train RNN (350 epochs): 1919.7375221252441
+The time needed to train RNN (360 epochs): 1973.985806465149
+The time needed to train RNN (370 epochs): 2028.8913388252258
+The time needed to train RNN (380 epochs): 2083.671316385269
+The time needed to train RNN (390 epochs): 2138.5064537525177
+The time needed to train RNN (400 epochs): 2193.0400013923645
+The time needed to train RNN: 2193.040011882782
+==========================
+The number of hidden nodes: 50
+The number of hidden layers: 1
+The size of minibatches: 20
+Learning rate: 0.001
+The number of training epochs: 400
+The number of steps per trace: 20
+The number of traces: 10000
+Portion used to training: 0.6
+The time needed to train RNN (10 epochs): 50.23577380180359
+The time needed to train RNN (20 epochs): 104.03208661079407
+The time needed to train RNN (30 epochs): 157.79008841514587
+The time needed to train RNN (40 epochs): 211.4946265220642
+The time needed to train RNN (50 epochs): 265.14135694503784
+The time needed to train RNN (60 epochs): 318.84342908859253
+The time needed to train RNN (70 epochs): 372.56239199638367
+The time needed to train RNN (80 epochs): 426.2007648944855
+The time needed to train RNN (90 epochs): 479.7952446937561
+The time needed to train RNN (100 epochs): 533.405003786087
+The time needed to train RNN (110 epochs): 586.7121686935425
+The time needed to train RNN (120 epochs): 639.9501926898956
+The time needed to train RNN (130 epochs): 693.2983822822571
+The time needed to train RNN (140 epochs): 746.5978677272797
+The time needed to train RNN (150 epochs): 799.9002096652985
+The time needed to train RNN (160 epochs): 853.7647421360016
+The time needed to train RNN (170 epochs): 907.0384061336517
+The time needed to train RNN (180 epochs): 960.6981024742126
+The time needed to train RNN (190 epochs): 1014.0058770179749
+The time needed to train RNN (200 epochs): 1067.2607016563416
+The time needed to train RNN (210 epochs): 1120.627919435501
+The time needed to train RNN (220 epochs): 1173.8930351734161
+The time needed to train RNN (230 epochs): 1227.1357362270355
+The time needed to train RNN (240 epochs): 1280.4358355998993
+The time needed to train RNN (250 epochs): 1333.7502181529999
+The time needed to train RNN (260 epochs): 1386.962881565094
+The time needed to train RNN (270 epochs): 1440.2348942756653
+The time needed to train RNN (280 epochs): 1493.4875309467316
+The time needed to train RNN (290 epochs): 1546.7356934547424
+The time needed to train RNN (300 epochs): 1600.0178632736206
+The time needed to train RNN (310 epochs): 1653.3384182453156
+The time needed to train RNN (320 epochs): 1706.6468515396118
+The time needed to train RNN (330 epochs): 1759.909154176712
+The time needed to train RNN (340 epochs): 1813.1757485866547
+The time needed to train RNN (350 epochs): 1866.542426109314
+The time needed to train RNN (360 epochs): 1919.866019487381
+The time needed to train RNN (370 epochs): 1973.1576473712921
+The time needed to train RNN (380 epochs): 2026.4617540836334
+The time needed to train RNN (390 epochs): 2079.780300617218
+The time needed to train RNN (400 epochs): 2133.0294740200043
+The time needed to train RNN: 2133.0294868946075
+==========================
+The number of hidden nodes: 10
+The number of hidden layers: 1
+The size of minibatches: 20
+Learning rate: 0.001
+The number of training epochs: 400
+The number of steps per trace: 20
+The number of traces: 10000
+Portion used to training: 0.6
+The time needed to train RNN (10 epochs): 49.78653836250305
+The time needed to train RNN (20 epochs): 98.47393035888672
+The time needed to train RNN (30 epochs): 147.16559553146362
+The time needed to train RNN (40 epochs): 195.71474528312683
+The time needed to train RNN (50 epochs): 244.1774079799652
+The time needed to train RNN (60 epochs): 292.7809364795685
+The time needed to train RNN (70 epochs): 341.29200434684753
+The time needed to train RNN (80 epochs): 389.7410538196564
+The time needed to train RNN (90 epochs): 438.17392778396606
+The time needed to train RNN (100 epochs): 486.55995440483093
+The time needed to train RNN (110 epochs): 534.8304378986359
+The time needed to train RNN (120 epochs): 583.0078718662262
+The time needed to train RNN (130 epochs): 631.0772514343262
+The time needed to train RNN (140 epochs): 679.1640682220459
+The time needed to train RNN (150 epochs): 727.1955568790436
+The time needed to train RNN (160 epochs): 775.233430147171
+The time needed to train RNN (170 epochs): 823.283234834671
+The time needed to train RNN (180 epochs): 871.436119556427
+The time needed to train RNN (190 epochs): 919.5152726173401
+The time needed to train RNN (200 epochs): 967.5622868537903
+The time needed to train RNN (210 epochs): 1015.6146514415741
+The time needed to train RNN (220 epochs): 1063.7014536857605
+The time needed to train RNN (230 epochs): 1111.7637000083923
+The time needed to train RNN (240 epochs): 1159.845444202423
+The time needed to train RNN (250 epochs): 1207.9255390167236
+The time needed to train RNN (260 epochs): 1255.9765439033508
+The time needed to train RNN (270 epochs): 1304.0618479251862
+The time needed to train RNN (280 epochs): 1352.1377444267273
+The time needed to train RNN (290 epochs): 1400.1938662528992
+The time needed to train RNN (300 epochs): 1448.279851436615
+The time needed to train RNN (310 epochs): 1496.4653930664062
+The time needed to train RNN (320 epochs): 1544.6559085845947
+The time needed to train RNN (330 epochs): 1592.7864825725555
+The time needed to train RNN (340 epochs): 1640.8446033000946
+The time needed to train RNN (350 epochs): 1688.9461832046509
+The time needed to train RNN (360 epochs): 1737.0917217731476
+The time needed to train RNN (370 epochs): 1785.1596202850342
+The time needed to train RNN (380 epochs): 1833.30321931839
+The time needed to train RNN (390 epochs): 1881.4537189006805
+The time needed to train RNN (400 epochs): 1929.5959858894348
+The time needed to train RNN: 1929.595998764038
+==========================
+The number of hidden nodes: 10
+The number of hidden layers: 4
+The size of minibatches: 20
+Learning rate: 0.001
+The number of training epochs: 400
+The number of steps per trace: 20
+The number of traces: 10000
+Portion used to training: 0.6
+The time needed to train RNN (10 epochs): 131.45099759101868
+The time needed to train RNN (20 epochs): 261.66207337379456
+The time needed to train RNN (30 epochs): 391.7134759426117
+The time needed to train RNN (40 epochs): 521.5408108234406
+The time needed to train RNN (50 epochs): 651.0683751106262
+The time needed to train RNN (60 epochs): 780.5377702713013
+The time needed to train RNN (70 epochs): 909.998028755188
+The time needed to train RNN (80 epochs): 1039.6308155059814
+The time needed to train RNN (90 epochs): 1169.079041004181
+The time needed to train RNN (100 epochs): 1298.1165926456451
+The time needed to train RNN (110 epochs): 1426.2386660575867
+The time needed to train RNN (120 epochs): 1554.0233891010284
+The time needed to train RNN (130 epochs): 1682.1487843990326
+The time needed to train RNN (140 epochs): 1810.0193498134613
+The time needed to train RNN (150 epochs): 1937.6938865184784
+The time needed to train RNN (160 epochs): 2065.337405204773
+The time needed to train RNN (170 epochs): 2192.93425321579
+The time needed to train RNN (180 epochs): 2320.465934753418
+The time needed to train RNN (190 epochs): 2448.108909845352
+The time needed to train RNN (200 epochs): 2575.7842111587524
+The time needed to train RNN (210 epochs): 2703.680497646332
+The time needed to train RNN (220 epochs): 2831.33704161644
+The time needed to train RNN (230 epochs): 2958.9858887195587
+The time needed to train RNN (240 epochs): 3086.6122891902924
+The time needed to train RNN (250 epochs): 3214.1352050304413
+The time needed to train RNN (260 epochs): 3341.7410180568695
+The time needed to train RNN (270 epochs): 3469.2678236961365
+The time needed to train RNN (280 epochs): 3596.7779428958893
+The time needed to train RNN (290 epochs): 3724.581293821335
+The time needed to train RNN (300 epochs): 3852.5338468551636
+The time needed to train RNN (310 epochs): 3980.099290370941
+The time needed to train RNN (320 epochs): 4107.5617134571075
+The time needed to train RNN (330 epochs): 4235.067484378815
+The time needed to train RNN (340 epochs): 4362.861756324768
+The time needed to train RNN (350 epochs): 4490.435880422592
+The time needed to train RNN (360 epochs): 4618.142360448837
+The time needed to train RNN (370 epochs): 4745.751238822937
+The time needed to train RNN (380 epochs): 4873.383403778076
+The time needed to train RNN (390 epochs): 5001.113856315613
+The time needed to train RNN (400 epochs): 5128.793610334396
+The time needed to train RNN: 5128.793623685837

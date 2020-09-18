@@ -1,0 +1,2 @@
+The time needed to generate random traces: 0.04488039016723633 s
+[4;33mReloaded modules[24m: randomwalk[0m

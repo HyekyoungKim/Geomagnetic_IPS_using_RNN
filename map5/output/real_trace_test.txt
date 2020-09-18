@@ -1,0 +1,1008 @@
+The number of hidden nodes: 200
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 400
+The time needed to predict a trace: 0.14712190628051758
+---------------------------------
+Mean squared error: 0.1631057640333239
+Mean error: 5.624516120551464 m
+Mean error after first five steps: 5.040223502993532 m
+=================================
+The number of hidden nodes: 200
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 370
+The time needed to predict a trace: 0.10867595672607422
+---------------------------------
+Mean squared error: 0.15780972913615912
+Mean error: 5.11651639571261 m
+Mean error after first five steps: 4.438989661996695 m
+=================================
+The number of hidden nodes: 100
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 150
+The time needed to predict a trace: 0.10390210151672363
+---------------------------------
+Mean squared error: 0.16342381695074684
+Mean error: 5.282588409792885 m
+Mean error after first five steps: 4.485537039393812 m
+=================================
+The number of hidden nodes: 100
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 100
+The time needed to predict a trace: 0.09179115295410156
+---------------------------------
+Mean squared error: 0.17116221696089126
+Mean error: 5.544743754049915 m
+Mean error after first five steps: 4.74511272795953 m
+=================================
+The number of hidden nodes: 100
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 200
+The time needed to predict a trace: 0.12118744850158691
+---------------------------------
+Mean squared error: 0.18947793834048757
+Mean error: 6.128741532662321 m
+Mean error after first five steps: 5.515768837620445 m
+=================================
+The number of hidden nodes: 100
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 150
+The time needed to predict a trace: 0.09925055503845215
+---------------------------------
+Mean squared error: 0.16342381695074684
+Mean error: 5.282588409792885 m
+Mean error after first five steps: 4.485537039393812 m
+=================================
+The number of hidden nodes: 100
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 250
+The time needed to predict a trace: 0.09175562858581543
+---------------------------------
+Mean squared error: 0.2126264262058907
+Mean error: 6.71690513936621 m
+Mean error after first five steps: 6.19773518427521 m
+=================================
+The number of hidden nodes: 100
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 300
+The time needed to predict a trace: 0.09471344947814941
+---------------------------------
+Mean squared error: 0.21220558746772447
+Mean error: 6.708527828002749 m
+Mean error after first five steps: 6.165515085819882 m
+=================================
+The number of hidden nodes: 100
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 350
+The time needed to predict a trace: 0.11569046974182129
+---------------------------------
+Mean squared error: 0.19535592220970446
+Mean error: 6.033072929372378 m
+Mean error after first five steps: 5.463065223697681 m
+=================================
+The number of hidden nodes: 100
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 350
+The time needed to predict a trace: 0.10272812843322754
+---------------------------------
+Mean squared error: 0.19535592220970446
+Mean error: 6.033072929372378 m
+Mean error after first five steps: 5.463065223697681 m
+=================================
+[6.5 0. ]
+The number of hidden nodes: 100
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 350
+The time needed to predict a trace: 0.13862991333007812
+---------------------------------
+Mean squared error: 0.19535592220970446
+Mean error: 6.033072929372378 m
+Mean error after first five steps: 5.463065223697681 m
+=================================
+The number of hidden nodes: 100
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 350
+The time needed to predict a trace: 0.14760732650756836
+---------------------------------
+Mean squared error: 0.19535592220970446
+Mean error: 7.816309888031318 m
+Mean error after first five steps: 7.621454103437793 m
+=================================
+[20.  6.]
+The number of hidden nodes: 100
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 350
+The time needed to predict a trace: 0.14663267135620117
+---------------------------------
+Mean squared error: 0.19535592220970446
+Mean error: 7.816309888031318 m
+Mean error after first five steps: 7.621454103437793 m
+=================================
+The number of hidden nodes: 100
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 350
+The time needed to predict a trace: 0.12367057800292969
+---------------------------------
+Mean squared error: 0.19535592220970446
+Mean error: 7.816309888031318 m
+Mean error after first five steps: 7.621454103437793 m
+=================================
+1.0841624854448253
+1.9822931266426829
+The number of hidden nodes: 100
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 350
+The time needed to predict a trace: 0.09773945808410645
+---------------------------------
+Mean squared error: 0.19535592220970446
+Mean error: 7.816309888031318 m
+Mean error after first five steps: 7.621454103437793 m
+=================================
+21.683249817312756
+11.89375895808541
+The number of hidden nodes: 100
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 350
+The time needed to predict a trace: 0.10970687866210938
+---------------------------------
+Mean squared error: 0.17828106158542853
+Mean error: 7.816309888031318 m
+Mean error after first five steps: 7.621454103437793 m
+=================================
+1.0841624854448253
+1.9822931266426829
+21.683249817312756
+11.89375895808541
+The number of hidden nodes: 100
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 350
+The time needed to predict a trace: 0.13164830207824707
+---------------------------------
+Mean squared error: 0.17828106158542853
+Mean error: 7.816309888031318 m
+Mean error after first five steps: 7.621454103437793 m
+=================================
+1.0841624854448253
+1.9822931266426829
+10.8416249628645
+11.89375895808541
+The number of hidden nodes: 100
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 350
+The time needed to predict a trace: 0.09773945808410645
+---------------------------------
+Mean squared error: 0.6135297602593094
+Mean error: 9.307441565145025 m
+Mean error after first five steps: 9.84134209118906 m
+=================================
+1.0841624854448253
+1.9822931266426829
+21.683249817312756
+3.9645864515146783
+The number of hidden nodes: 100
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 350
+The time needed to predict a trace: 0.09275245666503906
+---------------------------------
+Mean squared error: 0.7999179337056352
+Mean error: 8.048863507061208 m
+Mean error after first five steps: 7.994448160637074 m
+=================================
+1.0841624854448253
+1.9822931266426829
+21.683249817312756
+11.89375895808541
+The number of hidden nodes: 100
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 350
+The time needed to predict a trace: 0.09116053581237793
+---------------------------------
+Mean squared error: 0.17828106158542853
+Mean error: 7.816309888031318 m
+Mean error after first five steps: 7.621454103437793 m
+=================================
+0.8553644215712035
+1.143338745108661
+17.107288516960512
+6.860032584985841
+1.079550943840238
+1.5031421149968056
+21.591018984759856
+9.018852840295045
+The number of hidden nodes: 100
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 350
+The time needed to predict a trace: 0.08948683738708496
+---------------------------------
+Mean squared error: 0.20481615172287465
+Mean error: 8.742001207583757 m
+Mean error after first five steps: 8.223679027493363 m
+=================================
+1.3154791668981085
+1.0788277158168382
+26.309583469510088
+6.472966402783801
+The number of hidden nodes: 100
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 350
+The time needed to predict a trace: 0.09774160385131836
+---------------------------------
+Mean squared error: 0.17213526214466865
+Mean error: 7.841676508669631 m
+Mean error after first five steps: 7.11082117980914 m
+=================================
+1.3003129085156677
+0.9700579139362453
+26.006258300344648
+5.820347580623263
+The number of hidden nodes: 100
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 350
+The time needed to predict a trace: 0.0907590389251709
+---------------------------------
+Mean squared error: 0.15724725310702908
+Mean error: 7.549917209098869 m
+Mean error after first five steps: 6.922861411480638 m
+=================================
+1.0841624854448253
+1.9822931266426829
+21.683249817312756
+11.89375895808541
+The number of hidden nodes: 100
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 350
+The time needed to predict a trace: 0.08876252174377441
+---------------------------------
+Mean squared error: 0.17828106158542853
+Mean error: 7.816309888031318 m
+Mean error after first five steps: 7.621454103437793 m
+=================================
+0.46290080109743015
+1.2730531417367188
+9.258016068238684
+7.6383189777256275
+The number of hidden nodes: 100
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 350
+The time needed to predict a trace: 0.09581470489501953
+---------------------------------
+Mean squared error: 0.2925175547371881
+Mean error: 10.364649187845655 m
+Mean error after first five steps: nan m
+=================================
+0.46290080109743015
+1.2730531417367188
+9.258016068238684
+7.6383189777256275
+The number of hidden nodes: 100
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 350
+The time needed to predict a trace: 0.08676671981811523
+---------------------------------
+Mean squared error: 0.8198404665386104
+Mean error: 8.120995594023324 m
+Mean error after first five steps: nan m
+=================================
+0.46290080109743015
+1.2730531417367188
+9.258016068238684
+7.6383189777256275
+The number of hidden nodes: 100
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 350
+The time needed to predict a trace: 0.1017303466796875
+---------------------------------
+Mean squared error: 0.8198404665386104
+Mean error: 8.120995594023324 m
+Mean error after first five steps: nan m
+=================================
+9.258016068238684
+7.6383189777256275
+0.46290080109743015
+1.2730531417367188
+9.258016068238684
+7.6383189777256275
+The number of hidden nodes: 100
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 350
+The time needed to predict a trace: 0.1047208309173584
+---------------------------------
+Mean squared error: 0.8198404665386104
+Mean error: 8.120995594023324 m
+Mean error after first five steps: nan m
+=================================
+1.0841624854448253
+1.9822931266426829
+21.683249817312756
+11.89375895808541
+The number of hidden nodes: 100
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 350
+The time needed to predict a trace: 0.10622549057006836
+---------------------------------
+Mean squared error: 0.17828106158542853
+Mean error: 7.816309888031318 m
+Mean error after first five steps: 7.621454103437793 m
+=================================
+0.5677218572223791
+0.47667060734966893
+11.354437201219769
+2.8600236917650745
+The number of hidden nodes: 50
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 50
+The time needed to predict a trace: 0.1012427806854248
+---------------------------------
+Mean squared error: 0.09813963780060753
+Mean error: 5.388201998314072 m
+Mean error after first five steps: 5.105883964501755 m
+=================================
+The number of hidden nodes: 50
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 50
+The time needed to predict a trace: 0.0997314453125
+---------------------------------
+Mean squared error: 0.09813963780060753
+Mean error: 5.388201998314072 m
+Mean error after first five steps: 5.105883964501755 m
+=================================
+The number of hidden nodes: 100
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 100
+The time needed to predict a trace: 0.10870885848999023
+---------------------------------
+Mean squared error: 0.14141047048393182
+Mean error: 7.052116096693007 m
+Mean error after first five steps: 6.499381445478055 m
+=================================
+The number of hidden nodes: 100
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 150
+The time needed to predict a trace: 0.0932624340057373
+---------------------------------
+Mean squared error: 0.1294404481105661
+Mean error: 6.711857569487246 m
+Mean error after first five steps: 6.164707614674467 m
+=================================
+The number of hidden nodes: 100
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 200
+The time needed to predict a trace: 0.1047208309173584
+---------------------------------
+Mean squared error: 0.17122561522473997
+Mean error: 8.022397175135891 m
+Mean error after first five steps: 7.758684383447599 m
+=================================
+The number of hidden nodes: 100
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 250
+The time needed to predict a trace: 0.12467598915100098
+---------------------------------
+Mean squared error: 0.19626799036353096
+Mean error: 8.974426215892796 m
+Mean error after first five steps: 8.863474311467714 m
+=================================
+The number of hidden nodes: 100
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 300
+The time needed to predict a trace: 0.1266624927520752
+---------------------------------
+Mean squared error: 0.1925430021257992
+Mean error: 8.8941585642956 m
+Mean error after first five steps: 8.747022295343791 m
+=================================
+The number of hidden nodes: 100
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 350
+The time needed to predict a trace: 0.12022829055786133
+---------------------------------
+Mean squared error: 0.17828106158542853
+Mean error: 7.816309888031318 m
+Mean error after first five steps: 7.621454103437793 m
+=================================
+The number of hidden nodes: 100
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 400
+The time needed to predict a trace: 0.14162230491638184
+---------------------------------
+Mean squared error: 0.1753798195704791
+Mean error: 7.789199291153059 m
+Mean error after first five steps: 7.56269016307082 m
+=================================
+The number of hidden nodes: 50
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 100
+The time needed to predict a trace: 0.09607768058776855
+---------------------------------
+Mean squared error: 0.1178651034109887
+Mean error: 5.854065004557507 m
+Mean error after first five steps: 5.462780175372723 m
+=================================
+The number of hidden nodes: 50
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 150
+The time needed to predict a trace: 0.15358448028564453
+---------------------------------
+Mean squared error: 0.13062647703800587
+Mean error: 6.3185426514937895 m
+Mean error after first five steps: 6.0469947803911355 m
+=================================
+The number of hidden nodes: 50
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 200
+The time needed to predict a trace: 0.10970520973205566
+---------------------------------
+Mean squared error: 0.13192440133897926
+Mean error: 6.38111255195827 m
+Mean error after first five steps: 6.085454069733044 m
+=================================
+The number of hidden nodes: 50
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 250
+The time needed to predict a trace: 0.11369442939758301
+---------------------------------
+Mean squared error: 0.1606930907699684
+Mean error: 6.9191587377168435 m
+Mean error after first five steps: 6.715895154880409 m
+=================================
+The number of hidden nodes: 50
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 300
+The time needed to predict a trace: 0.0937497615814209
+---------------------------------
+Mean squared error: 0.15962804195728705
+Mean error: 6.767305174336837 m
+Mean error after first five steps: 6.480089992423928 m
+=================================
+The number of hidden nodes: 50
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 350
+The time needed to predict a trace: 0.10471868515014648
+---------------------------------
+Mean squared error: 0.16600995217892658
+Mean error: 6.929958592064424 m
+Mean error after first five steps: 6.689535336111165 m
+=================================
+The number of hidden nodes: 50
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 400
+The time needed to predict a trace: 0.10272431373596191
+---------------------------------
+Mean squared error: 0.16208278583003596
+Mean error: 6.631620686577927 m
+Mean error after first five steps: 6.313949448074231 m
+=================================
+The number of hidden nodes: 10
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 50
+The time needed to predict a trace: 0.10172915458679199
+---------------------------------
+Mean squared error: 0.07179951016958636
+Mean error: 4.50343899533024 m
+Mean error after first five steps: 4.562075945704801 m
+=================================
+The number of hidden nodes: 10
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 100
+The time needed to predict a trace: 0.125654935836792
+---------------------------------
+Mean squared error: 0.06521933455215144
+Mean error: 4.307906908903899 m
+Mean error after first five steps: 4.3163201615701645 m
+=================================
+The number of hidden nodes: 10
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 150
+The time needed to predict a trace: 0.10272407531738281
+---------------------------------
+Mean squared error: 0.08335741696219551
+Mean error: 5.267030639732639 m
+Mean error after first five steps: 5.109642428981707 m
+=================================
+The number of hidden nodes: 10
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 200
+The time needed to predict a trace: 0.09075689315795898
+---------------------------------
+Mean squared error: 0.09414911794087946
+Mean error: 5.467748247612678 m
+Mean error after first five steps: 5.22425502846122 m
+=================================
+The number of hidden nodes: 10
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 250
+The time needed to predict a trace: 0.09408116340637207
+---------------------------------
+Mean squared error: 0.09463007966774124
+Mean error: 5.714337645318353 m
+Mean error after first five steps: 5.561220376298851 m
+=================================
+The number of hidden nodes: 10
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 300
+The time needed to predict a trace: 0.12566709518432617
+---------------------------------
+Mean squared error: 0.07203834254467624
+Mean error: 4.316294780306438 m
+Mean error after first five steps: 3.955466785501715 m
+=================================
+The number of hidden nodes: 10
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 350
+The time needed to predict a trace: 0.09877610206604004
+---------------------------------
+Mean squared error: 0.06631161539716411
+Mean error: 3.8261407662197513 m
+Mean error after first five steps: 3.443106698408768 m
+=================================
+The number of hidden nodes: 10
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 400
+The time needed to predict a trace: 0.11320662498474121
+---------------------------------
+Mean squared error: 0.06463835391747977
+Mean error: 3.714360568917358 m
+Mean error after first five steps: 3.3574078497866378 m
+=================================
+The number of hidden nodes: 200
+The number of hidden layers: 2
+The number of random traces: 10000
+The number of training epochs: 50
+The time needed to predict a trace: 0.09274744987487793
+---------------------------------
+Mean squared error: 0.11497526292772026
+Mean error: 5.80652118217749 m
+Mean error after first five steps: 5.246530429153498 m
+=================================
+The number of hidden nodes: 200
+The number of hidden layers: 2
+The number of random traces: 10000
+The number of training epochs: 100
+The time needed to predict a trace: 0.08174490928649902
+---------------------------------
+Mean squared error: 0.11655317588563782
+Mean error: 5.784572701215759 m
+Mean error after first five steps: 5.045990772030772 m
+=================================
+The number of hidden nodes: 200
+The number of hidden layers: 2
+The number of random traces: 10000
+The number of training epochs: 150
+The time needed to predict a trace: 0.09873747825622559
+---------------------------------
+Mean squared error: 0.1285585672372409
+Mean error: 6.2542588237846575 m
+Mean error after first five steps: 5.616006322135722 m
+=================================
+The number of hidden nodes: 200
+The number of hidden layers: 2
+The number of random traces: 10000
+The number of training epochs: 200
+The time needed to predict a trace: 0.14960145950317383
+---------------------------------
+Mean squared error: 0.15090386051340204
+Mean error: 6.925848644657053 m
+Mean error after first five steps: 6.24162816433525 m
+=================================
+The number of hidden nodes: 200
+The number of hidden layers: 2
+The number of random traces: 10000
+The number of training epochs: 250
+The time needed to predict a trace: 0.11170244216918945
+---------------------------------
+Mean squared error: 0.17586697631146386
+Mean error: 7.491633106821824 m
+Mean error after first five steps: 6.765748036565981 m
+=================================
+The number of hidden nodes: 200
+The number of hidden layers: 2
+The number of random traces: 10000
+The number of training epochs: 300
+The time needed to predict a trace: 0.08377671241760254
+---------------------------------
+Mean squared error: 0.175352357277224
+Mean error: 7.297494957328371 m
+Mean error after first five steps: 6.525419459989074 m
+=================================
+The number of hidden nodes: 200
+The number of hidden layers: 2
+The number of random traces: 10000
+The number of training epochs: 350
+The time needed to predict a trace: 0.14461445808410645
+---------------------------------
+Mean squared error: 0.1782392325160125
+Mean error: 7.437391172021515 m
+Mean error after first five steps: 6.68268611831739 m
+=================================
+The number of hidden nodes: 200
+The number of hidden layers: 2
+The number of random traces: 10000
+The number of training epochs: 400
+The time needed to predict a trace: 0.11967873573303223
+---------------------------------
+Mean squared error: 0.1765073293228958
+Mean error: 7.323809446196036 m
+Mean error after first five steps: 6.687994694912988 m
+=================================
+The number of hidden nodes: 100
+The number of hidden layers: 2
+The number of random traces: 10000
+The number of training epochs: 50
+The time needed to predict a trace: 0.12067866325378418
+---------------------------------
+Mean squared error: 0.09274554973256176
+Mean error: 5.538911796548351 m
+Mean error after first five steps: 5.435640025140212 m
+=================================
+The number of hidden nodes: 100
+The number of hidden layers: 2
+The number of random traces: 10000
+The number of training epochs: 100
+The time needed to predict a trace: 0.07679390907287598
+---------------------------------
+Mean squared error: 0.13806554531730794
+Mean error: 7.2681249091672875 m
+Mean error after first five steps: 7.132418132363949 m
+=================================
+The number of hidden nodes: 100
+The number of hidden layers: 2
+The number of random traces: 10000
+The number of training epochs: 150
+The time needed to predict a trace: 0.1077125072479248
+---------------------------------
+Mean squared error: 0.1399397973961657
+Mean error: 7.2209572092840775 m
+Mean error after first five steps: 7.023413709498604 m
+=================================
+The number of hidden nodes: 100
+The number of hidden layers: 2
+The number of random traces: 10000
+The number of training epochs: 200
+The time needed to predict a trace: 0.10671639442443848
+---------------------------------
+Mean squared error: 0.13424539042927697
+Mean error: 7.095170145558735 m
+Mean error after first five steps: 6.82609258551526 m
+=================================
+The number of hidden nodes: 100
+The number of hidden layers: 2
+The number of random traces: 10000
+The number of training epochs: 250
+The time needed to predict a trace: 0.0977027416229248
+---------------------------------
+Mean squared error: 0.15126419047918185
+Mean error: 7.8493693997201754 m
+Mean error after first five steps: 7.672899576978869 m
+=================================
+The number of hidden nodes: 100
+The number of hidden layers: 2
+The number of random traces: 10000
+The number of training epochs: 300
+The time needed to predict a trace: 0.09973311424255371
+---------------------------------
+Mean squared error: 0.14784083402963977
+Mean error: 7.815310727181549 m
+Mean error after first five steps: 7.67834575436841 m
+=================================
+The number of hidden nodes: 100
+The number of hidden layers: 2
+The number of random traces: 10000
+The number of training epochs: 350
+The time needed to predict a trace: 0.12067747116088867
+---------------------------------
+Mean squared error: 0.1464335463229447
+Mean error: 7.810104624210542 m
+Mean error after first five steps: 7.752610525732647 m
+=================================
+The number of hidden nodes: 100
+The number of hidden layers: 2
+The number of random traces: 10000
+The number of training epochs: 400
+The time needed to predict a trace: 0.08178186416625977
+---------------------------------
+Mean squared error: 0.1504311761136661
+Mean error: 8.014872677153681 m
+Mean error after first five steps: 7.997135664826645 m
+=================================
+The number of hidden nodes: 50
+The number of hidden layers: 2
+The number of random traces: 10000
+The number of training epochs: 50
+The time needed to predict a trace: 0.07779240608215332
+---------------------------------
+Mean squared error: 0.09047931253508378
+Mean error: 5.329916096066293 m
+Mean error after first five steps: 5.2945348744224585 m
+=================================
+The number of hidden nodes: 50
+The number of hidden layers: 2
+The number of random traces: 10000
+The number of training epochs: 100
+The time needed to predict a trace: 0.07077693939208984
+---------------------------------
+Mean squared error: 0.09490609899435992
+Mean error: 5.191118556756517 m
+Mean error after first five steps: 5.032626811012949 m
+=================================
+The number of hidden nodes: 50
+The number of hidden layers: 2
+The number of random traces: 10000
+The number of training epochs: 150
+The time needed to predict a trace: 0.07280588150024414
+---------------------------------
+Mean squared error: 0.11050225152483847
+Mean error: 5.563846712694064 m
+Mean error after first five steps: 5.285807264315472 m
+=================================
+The number of hidden nodes: 50
+The number of hidden layers: 2
+The number of random traces: 10000
+The number of training epochs: 200
+The time needed to predict a trace: 0.0827779769897461
+---------------------------------
+Mean squared error: 0.09262791026937879
+Mean error: 4.561011724194861 m
+Mean error after first five steps: 4.111895647552618 m
+=================================
+The number of hidden nodes: 50
+The number of hidden layers: 2
+The number of random traces: 10000
+The number of training epochs: 250
+The time needed to predict a trace: 0.1107034683227539
+---------------------------------
+Mean squared error: 0.11585860843534146
+Mean error: 5.7480155215329365 m
+Mean error after first five steps: 5.232557883358632 m
+=================================
+The number of hidden nodes: 50
+The number of hidden layers: 2
+The number of random traces: 10000
+The number of training epochs: 300
+The time needed to predict a trace: 0.07878470420837402
+---------------------------------
+Mean squared error: 0.10706511653051402
+Mean error: 5.510838063378754 m
+Mean error after first five steps: 5.09909114229958 m
+=================================
+The number of hidden nodes: 50
+The number of hidden layers: 2
+The number of random traces: 10000
+The number of training epochs: 350
+The time needed to predict a trace: 0.10072994232177734
+---------------------------------
+Mean squared error: 0.09756232169663022
+Mean error: 5.040203959020449 m
+Mean error after first five steps: 4.610895597235515 m
+=================================
+The number of hidden nodes: 50
+The number of hidden layers: 2
+The number of random traces: 10000
+The number of training epochs: 400
+The time needed to predict a trace: 0.07679367065429688
+---------------------------------
+Mean squared error: 0.0949231746280957
+Mean error: 4.192499956711928 m
+Mean error after first five steps: 3.617156053370187 m
+=================================
+The number of hidden nodes: 10
+The number of hidden layers: 2
+The number of random traces: 10000
+The number of training epochs: 50
+The time needed to predict a trace: 0.07380390167236328
+---------------------------------
+Mean squared error: 0.0779207809486347
+Mean error: 5.212542844694615 m
+Mean error after first five steps: 5.333346079999581 m
+=================================
+The number of hidden nodes: 10
+The number of hidden layers: 2
+The number of random traces: 10000
+The number of training epochs: 100
+The time needed to predict a trace: 0.15658092498779297
+---------------------------------
+Mean squared error: 0.07716080122551591
+Mean error: 5.805317161699382 m
+Mean error after first five steps: 5.9119974654331635 m
+=================================
+The number of hidden nodes: 10
+The number of hidden layers: 2
+The number of random traces: 10000
+The number of training epochs: 150
+The time needed to predict a trace: 0.12267279624938965
+---------------------------------
+Mean squared error: 0.08818758374927249
+Mean error: 6.5989840341924655 m
+Mean error after first five steps: 6.746120846336291 m
+=================================
+The number of hidden nodes: 10
+The number of hidden layers: 2
+The number of random traces: 10000
+The number of training epochs: 200
+The time needed to predict a trace: 0.10172724723815918
+---------------------------------
+Mean squared error: 0.11118170815939794
+Mean error: 7.231747274126904 m
+Mean error after first five steps: 7.490354311387834 m
+=================================
+The number of hidden nodes: 10
+The number of hidden layers: 2
+The number of random traces: 10000
+The number of training epochs: 250
+The time needed to predict a trace: 0.0718088150024414
+---------------------------------
+Mean squared error: 0.12741468534228517
+Mean error: 7.803144773904506 m
+Mean error after first five steps: 8.068217764577183 m
+=================================
+The number of hidden nodes: 10
+The number of hidden layers: 2
+The number of random traces: 10000
+The number of training epochs: 300
+The time needed to predict a trace: 0.10172843933105469
+---------------------------------
+Mean squared error: 0.12522587513416528
+Mean error: 7.571979938921169 m
+Mean error after first five steps: 7.690097211267629 m
+=================================
+The number of hidden nodes: 10
+The number of hidden layers: 2
+The number of random traces: 10000
+The number of training epochs: 300
+The time needed to predict a trace: 0.07380199432373047
+---------------------------------
+Mean squared error: 0.12522587513416528
+Mean error: 7.571979938921169 m
+Mean error after first five steps: 7.690097211267629 m
+=================================
+The number of hidden nodes: 10
+The number of hidden layers: 2
+The number of random traces: 10000
+The number of training epochs: 350
+The time needed to predict a trace: 0.08078670501708984
+---------------------------------
+Mean squared error: 0.13003304705990731
+Mean error: 7.301649444557082 m
+Mean error after first five steps: 7.295233252475468 m
+=================================
+The number of hidden nodes: 10
+The number of hidden layers: 2
+The number of random traces: 10000
+The number of training epochs: 400
+The time needed to predict a trace: 0.0777888298034668
+---------------------------------
+Mean squared error: 0.13944407515164176
+Mean error: 7.287730245463975 m
+Mean error after first five steps: 7.21246981943742 m
+=================================
+The number of hidden nodes: 200
+The number of hidden layers: 1
+The number of random traces: 10000
+The number of training epochs: 400
+The time needed to predict a trace: 0.0658271312713623
+---------------------------------
+Mean squared error: 0.1177873783223923
+Mean error: 6.5580276874582975 m
+Mean error after first five steps: 5.875842256423022 m
+=================================
+The number of hidden nodes: 100
+The number of hidden layers: 1
+The number of random traces: 10000
+The number of training epochs: 400
+The time needed to predict a trace: 0.061795949935913086
+---------------------------------
+Mean squared error: 0.12047392226587844
+Mean error: 6.486340715130308 m
+Mean error after first five steps: 6.003498399246057 m
+=================================
+The number of hidden nodes: 100
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 400
+The time needed to predict a trace: 0.10272789001464844
+---------------------------------
+Mean squared error: 0.049284856239007156
+Mean error: 2.4567794877686056 m
+Mean error after first five steps: 2.1424974471571967 m
+=================================
+The number of hidden nodes: 100
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 400
+The time needed to predict a trace: 0.08976054191589355
+---------------------------------
+Mean squared error: 0.050892434864453315
+Mean error: 4.441456309371165 m
+Mean error after first five steps: 4.161992648875109 m
+=================================
+The number of hidden nodes: 100
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 400
+The time needed to predict a trace: 0.09474515914916992
+---------------------------------
+Mean squared error: 0.036346556612872234
+Mean error: 3.9138585464593336 m
+Mean error after first five steps: 3.988631684469864 m
+=================================
+The number of hidden nodes: 100
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 400
+The time needed to predict a trace: 0.08776569366455078
+---------------------------------
+Mean squared error: 0.04611164467732401
+Mean error: 3.273113448740582 m
+Mean error after first five steps: 3.4277008106091107 m
+=================================
+The number of hidden nodes: 100
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 400
+The time needed to predict a trace: 0.08776593208312988
+---------------------------------
+Mean squared error: 0.04611164467732401
+Mean error: 3.273113448740582 m
+Mean error after first five steps: 3.4277008106091107 m
+=================================
+The number of hidden nodes: 100
+The number of hidden layers: 3
+The number of random traces: 10000
+The number of training epochs: 400
+The time needed to predict a trace: 0.09275341033935547
+---------------------------------
+Mean squared error: 0.09801519108923905
+Mean error: 5.598129354734007 m
+Mean error after first five steps: 5.879151565175575 m
+=================================

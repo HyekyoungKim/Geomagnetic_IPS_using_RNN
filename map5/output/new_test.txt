@@ -1,0 +1,225 @@
+The number of hidden nodes: 200
+The number of hidden layers: 3
+The size of minibatches: 20
+The learning rate: 0.001
+The number of training total epochs: 400
+The number of training epochs so far: 400
+---------------------------------
+Mean squared error: 0.0103274513862821
+Mean error: 1.2758837456260728 m
+Max error: 19.937491871240038 m
+Min error: 0.0025634950667701908 m
+Mean error after first 5 steps: 1.0048977162621098 m
+Max error after first 5 steps: 14.619896477031048 m
+Min error after first 5 steps: 0.0025634950667701908 m
+=================================
+The number of hidden nodes: 100
+The number of hidden layers: 3
+The size of minibatches: 20
+The learning rate: 0.001
+The number of training total epochs: 400
+The number of training epochs so far: 400
+---------------------------------
+Mean squared error: 0.006866493365164318
+Mean error: 0.9941448833695743 m
+Max error: 18.791784803576054 m
+Min error: 0.0019059429094217225 m
+Mean error after first 5 steps: 0.7283193537967418 m
+Max error after first 5 steps: 15.24178202465504 m
+Min error after first 5 steps: 0.0019059429094217225 m
+=================================
+The number of hidden nodes: 50
+The number of hidden layers: 3
+The size of minibatches: 20
+The learning rate: 0.001
+The number of training total epochs: 400
+The number of training epochs so far: 400
+---------------------------------
+Mean squared error: 0.010120974926049272
+Mean error: 1.3261051851658765 m
+Max error: 19.407878773173845 m
+Min error: 0.002184645467207011 m
+Mean error after first 5 steps: 1.0013837920950517 m
+Max error after first 5 steps: 19.407878773173845 m
+Min error after first 5 steps: 0.002184645467207011 m
+=================================
+The number of hidden nodes: 50
+The number of hidden layers: 3
+The size of minibatches: 20
+The learning rate: 0.001
+The number of training total epochs: 400
+The number of training epochs so far: 400
+---------------------------------
+Mean squared error: 0.010120974926049272
+Mean error: 1.3261051851658765 m
+Max error: 19.407878773173845 m
+Min error: 0.002184645467207011 m
+Mean error after first 5 steps: 1.0013837920950517 m
+Max error after first 5 steps: 19.407878773173845 m
+Min error after first 5 steps: 0.002184645467207011 m
+=================================
+The number of hidden nodes: 10
+The number of hidden layers: 3
+The size of minibatches: 20
+The learning rate: 0.001
+The number of training total epochs: 400
+The number of training epochs so far: 400
+---------------------------------
+Mean squared error: 0.018425955952695642
+Mean error: 2.175790632446734 m
+Max error: 16.69660406382744 m
+Min error: 0.004963982327077747 m
+Mean error after first 5 steps: 1.857016811997602 m
+Max error after first 5 steps: 15.25860308030533 m
+Min error after first 5 steps: 0.004963982327077747 m
+=================================
+The number of hidden nodes: 200
+The number of hidden layers: 2
+The size of minibatches: 20
+The learning rate: 0.001
+The number of training total epochs: 400
+The number of training epochs so far: 400
+---------------------------------
+Mean squared error: 0.008773836151743479
+Mean error: 1.1749645904236123 m
+Max error: 19.98309849531221 m
+Min error: 0.0010996564043217168 m
+Mean error after first 5 steps: 0.911428144411059 m
+Max error after first 5 steps: 17.337038696467953 m
+Min error after first 5 steps: 0.0010996564043217168 m
+=================================
+The number of hidden nodes: 100
+The number of hidden layers: 2
+The size of minibatches: 20
+The learning rate: 0.001
+The number of training total epochs: 400
+The number of training epochs so far: 400
+---------------------------------
+Mean squared error: 0.009834332934237897
+Mean error: 1.2748013703039152 m
+Max error: 19.049173960830256 m
+Min error: 0.003298206749209061 m
+Mean error after first 5 steps: 0.9509077811603711 m
+Max error after first 5 steps: 17.79426059222134 m
+Min error after first 5 steps: 0.003298206749209061 m
+=================================
+The number of hidden nodes: 50
+The number of hidden layers: 2
+The size of minibatches: 20
+The learning rate: 0.001
+The number of training total epochs: 400
+The number of training epochs so far: 400
+---------------------------------
+Mean squared error: 0.027306905722491927
+Mean error: 2.4568197166964647 m
+Max error: 16.638657874692825 m
+Min error: 0.004378468049002631 m
+Mean error after first 5 steps: 2.166926602609901 m
+Max error after first 5 steps: 15.356283814961346 m
+Min error after first 5 steps: 0.004378468049002631 m
+=================================
+The number of hidden nodes: 10
+The number of hidden layers: 2
+The size of minibatches: 20
+The learning rate: 0.001
+The number of training total epochs: 400
+The number of training epochs so far: 400
+---------------------------------
+Mean squared error: 0.02273144809881701
+Mean error: 2.4025031121705864 m
+Max error: 16.501638904186034 m
+Min error: 0.007269528937213913 m
+Mean error after first 5 steps: 2.045082364460998 m
+Max error after first 5 steps: 15.377437567207116 m
+Min error after first 5 steps: 0.007269528937213913 m
+=================================
+The number of hidden nodes: 200
+The number of hidden layers: 1
+The size of minibatches: 20
+The learning rate: 0.001
+The number of training total epochs: 400
+The number of training epochs so far: 400
+---------------------------------
+Mean squared error: 0.014758301301211066
+Mean error: 1.6810178926880184 m
+Max error: 18.95305483976756 m
+Min error: 0.005891730563869539 m
+Mean error after first 5 steps: 1.2966351885718568 m
+Max error after first 5 steps: 16.426613519196593 m
+Min error after first 5 steps: 0.005891730563869539 m
+=================================
+The number of hidden nodes: 100
+The number of hidden layers: 1
+The size of minibatches: 20
+The learning rate: 0.001
+The number of training total epochs: 400
+The number of training epochs so far: 400
+---------------------------------
+Mean squared error: 0.015595332398479102
+Mean error: 1.786793889449241 m
+Max error: 17.651488958716875 m
+Min error: 0.001430183724733635 m
+Mean error after first 5 steps: 1.384334245293069 m
+Max error after first 5 steps: 16.378175405784905 m
+Min error after first 5 steps: 0.001430183724733635 m
+=================================
+The number of hidden nodes: 50
+The number of hidden layers: 1
+The size of minibatches: 20
+The learning rate: 0.001
+The number of training total epochs: 400
+The number of training epochs so far: 400
+---------------------------------
+Mean squared error: 0.016492593748755818
+Mean error: 1.8965387655202572 m
+Max error: 17.497921908817563 m
+Min error: 0.005151939358285107 m
+Mean error after first 5 steps: 1.484576387729437 m
+Max error after first 5 steps: 16.14583317662646 m
+Min error after first 5 steps: 0.005151939358285107 m
+=================================
+The number of hidden nodes: 10
+The number of hidden layers: 1
+The size of minibatches: 20
+The learning rate: 0.001
+The number of training total epochs: 400
+The number of training epochs so far: 400
+---------------------------------
+Mean squared error: 0.028994718362385766
+Mean error: 2.8766475812312855 m
+Max error: 16.49612181408038 m
+Min error: 0.01327234206675261 m
+Mean error after first 5 steps: 2.540042678223626 m
+Max error after first 5 steps: 16.49612181408038 m
+Min error after first 5 steps: 0.01327234206675261 m
+=================================
+The number of hidden nodes: 10
+The number of hidden layers: 1
+The size of minibatches: 20
+The learning rate: 0.001
+The number of training total epochs: 400
+The number of training epochs so far: 400
+---------------------------------
+Mean squared error: 0.028994718362385766
+Mean error: 2.8766475812312855 m
+Max error: 16.49612181408038 m
+Min error: 0.01327234206675261 m
+Mean error after first 5 steps: 2.540042678223626 m
+Max error after first 5 steps: 16.49612181408038 m
+Min error after first 5 steps: 0.01327234206675261 m
+=================================
+The number of hidden nodes: 10
+The number of hidden layers: 1
+The size of minibatches: 20
+The learning rate: 0.001
+The number of training total epochs: 400
+The number of training epochs so far: 400
+---------------------------------
+Mean squared error: 0.028994718362385766
+Mean error: 2.8766475812312855 m
+Max error: 16.49612181408038 m
+Min error: 0.01327234206675261 m
+Mean error after first 5 steps: 2.540042678223626 m
+Max error after first 5 steps: 16.49612181408038 m
+Min error after first 5 steps: 0.01327234206675261 m
+=================================
